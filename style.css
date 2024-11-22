@@ -1,0 +1,114 @@
+body {
+    display: flex;
+    justify-content: center;
+    
+    color: #333;
+  }
+  .wrapper {
+    width: 1040px;
+    max-width: 100%;
+    background-color: #f7c069;
+    
+    
+  }
+  
+  header {
+    text-align: center;
+    padding-top: 100px;
+    
+    
+   
+  }
+  .navbar {
+    text-align: left;
+   
+    
+
+    
+  }
+  
+  header .site-info h1 {
+    font-size: 2rem;
+    color: #B67352;
+    font-family:  Montserrat;
+  }
+  h1{
+    color: #B67352;
+    font-family:  Montserrat;
+    
+  }
+   
+  .navbar {
+    background-color: #fc8f00;
+    padding: 15px 0;
+  }
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 15px;
+  
+  
+  
+  }
+  .sidebar {
+    width: 30%;
+    background-color: #3ca0da;
+    padding: 20px;
+    float: right;
+  }
+  .sidebar img {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .main-content {
+    width: 70%;
+    padding: 0 20px;
+  }
+  .main-content article {
+    margin-bottom: 20px;
+    
+  }
+  
+  .main-content img {
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 10px;
+    float: right;
+    padding-top: 20px;
+    padding-right: 20px;
+  }
+  .main-content h2 {
+    color: #B67352;
+ 
+  }
+  .icon{
+    width: 24px;
+    height: 24px;
+  }
+  .social-icon {
+    font-size: 20px; 
+    color: #333; 
+    margin-right: 10px;
+    transition: opacity 0.3s;
+  
+  }
+ h5{
+    color: #3ca0da;
+
+}
+.social-links {
+    margin-top: 15px;
+  
+}
+.social-links img{
+  width: 30px;
+  
+}
+h2{
+    color: #B67352;
+}
+h3{
+    color: white;
+}
+
